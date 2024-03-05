@@ -1,4 +1,9 @@
-body{
-  background-color: darkblue;
+header{
+  background-color: #424e61;
   color: white;
-}.
+ 
+}
+
+.imagem-cabecalho{
+  width: 25%;
+}
