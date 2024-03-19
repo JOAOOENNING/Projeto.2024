@@ -9,16 +9,17 @@
 .imagem-cabecalho{
   width: 25%;
 }
+
 .cabecalho-item{
  display:inline-block;
  margin: 0 16px; 
  font-size: 24px;
 }
+
 .escola-imagem{
-  width: 20%
-  ;
+  width: 20%;
 }
+
 .escola{
   background-image: linear-gradient(#39a939,#c8d0d2);
-
 }
