@@ -9,3 +9,9 @@
 .imagem-cabecalho{
   width: 25%;
 }
+.cabecalho-item{
+ display:inline-block;
+ margin: 0 16px; 
+ font-size: 24px;
+}
+.escola-imagem
