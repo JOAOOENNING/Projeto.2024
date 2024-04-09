@@ -3,11 +3,12 @@ margin: 0px;
 padding: 0px;
 }
 .cabecalho{
-  background-color: #424e61;
+  background-color: #000000f1;
   color: white;
   display: flex;
   justify-content: space-around;
   align-items: center;
+  padding: 24px;
 }
 
 .imagem-cabecalho{
